@@ -1,4 +1,5 @@
-# Python
+# Python code
+
 import random 
 name = input("What is your name? ") print("All the best, " + name + "!")
  words = ['pokemon', 'doremon', 'nobita', 'ben', 'pikachu', 'tomjerry', 'shinchan', 'naruto', 'hagemaru', 'oggycockroaches']
